@@ -39,4 +39,4 @@ Aquí encontrarás proyectos relacionados con:
 
 # 📫 Contacto
 
-- LinkedIn: [TuLinkedIn](https://linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/mario-guerrero-salinero-54b950393/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-guerrero-salinero-54b950393/)
